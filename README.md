@@ -1,8 +1,4 @@
-# Netflix Insight Engine 📺📊
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![EDA](https://img.shields.io/badge/Exploratory-Data%20Analysis-blueviolet?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data-Visualization-success?style=for-the-badge)
+# Netflix Insight Engine 📺
 
 ## 🚀 Overview
 
